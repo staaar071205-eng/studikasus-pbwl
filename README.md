@@ -1,8 +1,8 @@
-# Project 5 – Studi Kasus 1
-Project 5 Pemrograman Berbasis Web Lanjutan
-Riski Amanda NIM : 0702243150, Sistem Informasi 1
-Dosen: Suendri, M.Kom · Semester Ganjil 2026/2027
-UIN Sumatera Utara Medan, Fakultas Sains dan Teknologi
+# Project 5 – Studi Kasus 1                        
+Project 5 Pemrograman Berbasis Web Lanjutan                           
+Riski Amanda NIM : 0702243150, Sistem Informasi 1                     
+Dosen: Suendri, M.Kom · Semester Ganjil 2026/2027               
+UIN Sumatera Utara Medan, Fakultas Sains dan Teknologi      
 ## Aplikasi Pengelolaan Data Mahasiswa
 
 Project ini merupakan aplikasi web sederhana berbasis PHP dan MySQL untuk mengelola data mahasiswa. Aplikasi menerapkan operasi CRUD (*Create, Read, Update, Delete*) dengan menggunakan PDO sebagai penghubung ke database.
